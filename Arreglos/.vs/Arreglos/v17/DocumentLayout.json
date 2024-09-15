@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C00E63-1625-4AA7-ADB0-549939C823AB}|Reservacion\\Reservacion.csproj|c:\\users\\naole\\onedrive\\arreglosc#\\arreglos\\reservacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C00E63-1625-4AA7-ADB0-549939C823AB}|Reservacion\\Reservacion.csproj|solutionrelative:reservacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C00E63-1625-4AA7-ADB0-549939C823AB}|Reservacion\\Reservacion.csproj|c:\\users\\naole\\onedrive\\arreglosc#\\arreglos\\reservacion\\models\\asientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C00E63-1625-4AA7-ADB0-549939C823AB}|Reservacion\\Reservacion.csproj|solutionrelative:reservacion\\models\\asientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C00E63-1625-4AA7-ADB0-549939C823AB}|Reservacion\\Reservacion.csproj|c:\\users\\naole\\onedrive\\arreglosc#\\arreglos\\reservacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C00E63-1625-4AA7-ADB0-549939C823AB}|Reservacion\\Reservacion.csproj|solutionrelative:reservacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A98549-780C-4510-932D-FAB858D89ABC}|Arreglos\\Arreglos.csproj|c:\\users\\naole\\onedrive\\arreglosc#\\arreglos\\arreglos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A98549-780C-4510-932D-FAB858D89ABC}|Arreglos\\Arreglos.csproj|solutionrelative:arreglos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A98549-780C-4510-932D-FAB858D89ABC}|Arreglos\\Arreglos.csproj|C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\arreglos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19A98549-780C-4510-932D-FAB858D89ABC}|Arreglos\\Arreglos.csproj|solutionrelative:arreglos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A98549-780C-4510-932D-FAB858D89ABC}|Arreglos\\Arreglos.csproj|c:\\users\\naole\\onedrive\\arreglosc#\\arreglos\\arreglos\\models\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A98549-780C-4510-932D-FAB858D89ABC}|Arreglos\\Arreglos.csproj|solutionrelative:arreglos\\models\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Reservacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Reservacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Reservacion\\Form1.cs",
+              "RelativeToolTip": "Reservacion\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:15:53.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asientos.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Reservacion\\models\\Asientos.cs",
+              "RelativeDocumentMoniker": "Reservacion\\models\\Asientos.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Reservacion\\models\\Asientos.cs",
+              "RelativeToolTip": "Reservacion\\models\\Asientos.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:11:11.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Reservacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Reservacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Reservacion\\Form1.cs [Design]",
+              "RelativeToolTip": "Reservacion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:51:10.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Arreglos\\Form1.cs",
+              "RelativeDocumentMoniker": "Arreglos\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Arreglos\\Form1.cs",
+              "RelativeToolTip": "Arreglos\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:41:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dados.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Arreglos\\models\\Dados.cs",
+              "RelativeDocumentMoniker": "Arreglos\\models\\Dados.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Arreglos\\models\\Dados.cs",
+              "RelativeToolTip": "Arreglos\\models\\Dados.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:51:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Arreglos\\Form1.cs",
+              "RelativeDocumentMoniker": "Arreglos\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\ArreglosC#\\Arreglos\\Arreglos\\Form1.cs [Design]",
+              "RelativeToolTip": "Arreglos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:16:01.201Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\bin\Debug\Reservacion.exe.config
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\bin\Debug\Reservacion.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\bin\Debug\Reservacion.pdb
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.csproj.AssemblyReference.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.Form1.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.Properties.Resources.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.csproj.GenerateResource.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Reservacion\obj\Debug\Reservacion.pdb

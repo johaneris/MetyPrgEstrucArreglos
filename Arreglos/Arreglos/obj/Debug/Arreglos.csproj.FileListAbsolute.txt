@@ -1,0 +1,10 @@
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.AssemblyReference.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
