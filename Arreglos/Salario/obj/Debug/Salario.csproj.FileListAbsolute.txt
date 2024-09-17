@@ -1,0 +1,10 @@
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\bin\Debug\Salario.exe.config
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\bin\Debug\Salario.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\bin\Debug\Salario.pdb
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.csproj.AssemblyReference.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.Form1.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.Properties.Resources.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.csproj.GenerateResource.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Salario\obj\Debug\Salario.pdb
