@@ -43,7 +43,7 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.label1.Location = new System.Drawing.Point(288, 19);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(402, 60);
+            this.label1.Size = new System.Drawing.Size(393, 58);
             this.label1.TabIndex = 6;
             this.label1.Text = "Reserve su vuelo";
             // 

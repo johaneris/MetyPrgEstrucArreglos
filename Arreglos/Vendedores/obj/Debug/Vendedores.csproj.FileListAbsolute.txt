@@ -1,0 +1,10 @@
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\bin\Debug\Vendedores.exe.config
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\bin\Debug\Vendedores.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\bin\Debug\Vendedores.pdb
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.csproj.AssemblyReference.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.Form1.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.Properties.Resources.resources
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.csproj.GenerateResource.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.exe
+C:\Users\naole\OneDrive\ArreglosC#\Arreglos\Vendedores\obj\Debug\Vendedores.pdb
